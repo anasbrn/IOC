@@ -1,0 +1,2 @@
+org.brnanas.ext.DaoImplV2
+org.brnanas.metier.MetierImpl
